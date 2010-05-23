@@ -1,12 +1,12 @@
 SplineFontDB: 3.0
 FontName: Delamotte16thCenturyInitials
 FullName: Delamotte16thCenturyInitials
-FamilyName: Delamotte 16th Century Initials
+FamilyName: Delamotte16thCenturyInitials
 Weight: Medium
 Copyright: Copyright (c) 2010, Glyphbanger (http://github.com/glyphbanger)
 UComments: "TODO:+AAoA-- create X and Z+AAoA-- verify PANOSE classification+AAoA-- upload to CTAN+AAoA-- upload to Open Font Library" 
-FontLog: "2010-05-16 0.91 Glyphbanger <glyphbanger@yahoo.com>+AAoACgAA  * Created initial version 1.00 under Open Font License (OFL 1.1) of sixteenth century initials except missing J, O, W, X and Z. Source is vectorised scan http://en.wikipedia.org/wiki/File:Ornamental_Alphabet_-_16th_Century.svg by Jovan Cormac of page 51 from a book by Freeman Gage Delamotte, THE BOOK OF ORNAMENTAL ALPHABETS, Ancient and Medi+AOYA-val. Crosby Lockwood and Co., London, 1879. The original work is out of copyright, hence it resides in the public domain.+AAoACgAA-2010-05-23 0.93 Glyphbanger <glyphbanger@yahoo.com>+AAoACgAA  * Fixed M, N and Y alignment.+AAoA  * Added vectorised O and J from FontForge source file from http://www.fromoldbooks.org/DelamotteOrnamentalalphabets/ by Liam R. E. Quin." 
-Version: 0.93
+FontLog: "2010-05-16 0.91 Glyphbanger <glyphbanger@yahoo.com>+AAoACgAA  * Created initial version 1.00 under Open Font License (OFL 1.1) of sixteenth century initials except missing J, O, W, X and Z. Source is vectorised scan http://en.wikipedia.org/wiki/File:Ornamental_Alphabet_-_16th_Century.svg by Jovan Cormac of page 51 from a book by Freeman Gage Delamotte, THE BOOK OF ORNAMENTAL ALPHABETS, Ancient and Medi+AOYA-val. Crosby Lockwood and Co., London, 1879. The original work is out of copyright, hence it resides in the public domain.+AAoACgAA-2010-05-23 0.93 Glyphbanger <glyphbanger@yahoo.com>+AAoACgAA  * Fixed M, N and Y alignment.+AAoA  * Added vectorised O and J from FontForge source file from http://www.fromoldbooks.org/DelamotteOrnamentalalphabets/ by Liam R. E. Quin.+AAoACgAK-2010-05-24 0.94 Glyphbanger <glyphbanger@yahoo.com>+AAoACgAA  * Consolidated spaces in fontnames." 
+Version: 0.94
 DefaultBaseFilename: Delamotte16thCenturyInitials
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1274035282
-ModificationTime: 1274649487
+ModificationTime: 1274657063
 PfmFamily: 81
 TTFWeight: 500
 TTFWidth: 5
