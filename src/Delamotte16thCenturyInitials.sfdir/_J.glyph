@@ -464,7 +464,7 @@ SplineSet
  737.146 -0 l 1
  0 -0 l 1
 91.8945 540.431 m 1
- 87 540 91.8945 540.431 91.8945 540.431 c 1
+ 100 540 91.8945 540.431 91.8945 540.431 c 1
 EndSplineSet
 Comment: "Dog and lizard" 
 EndChar
